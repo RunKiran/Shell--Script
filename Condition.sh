@@ -5,3 +5,5 @@ if[$NUMBER -gt 15]; then
 else
     print "Given number is Lessthan $NUMBER"    
 fi    
+
+#Comparison operators ===========>>> -eq,-ne,-gt,-lt,-ge,-le
